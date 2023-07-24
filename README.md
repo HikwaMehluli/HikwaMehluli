@@ -13,7 +13,4 @@ My name is Mehluli Hikwa - I'm a multifaceted designer with a passion for using 
 - 🚀 I am currently learning NextJS and Laravel to expand my frontend skills in-order to build & ship meaningful products 
 - 💬 Ask me anything about UI Design, CSS/SCSS, Web Accessibility
 - 📫 How to reach me: - Twitter: [@HikwaMehluli](https://twitter.com/HikwaMehluli), - LinkedIn: [Mehluli Hikwa](https://www.linkedin.com/in/hikwamehluli), - Email: [Send a mail!](mailto:mehlulihikwa@gmail.com)
-
 - 🐝 Fun fact: I'm a hobbyist beekeeper 
-
-[Profile views](https://gpvc.arturio.dev/hikwamehluli)
