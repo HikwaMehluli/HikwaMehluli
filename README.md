@@ -3,7 +3,7 @@
 My name is Mehluli Hikwa - I'm a multifaceted designer with a passion for using technology to leapfrog human/user problems and create magical experiences. When I take on a project, I simply don't ask you what you would like and then deliver that. I dig deeper and try to discover what will make your project successful so I can then develop functional solutions around those discoveries.
 
 ⚡️ **What I do**
-- ⚙️ Chief Creative Officer & Co-Founder at [Digital Afros](https://digitalafros.com)
+- ⚙️ Creative Director & Founder at [Digital Afros](https://digitalafros.com)
 - 💾 Frontend Development
 - 🎨 Digital Experience Design
 - 🎬 Indie Filmmaking
