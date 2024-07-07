@@ -4,13 +4,13 @@ My name is Mehluli Hikwa - I'm a multifaceted designer with a passion for using 
 
 ⚡️ **What I do**
 • ⚙️ Creative Developer & Founder at [Digital Afros](https://digitalafros.com)
-• 💾 Frontend Development
-• 🎨 Brand Design, UI/UX Design
-• 🎬 2D Animation, Indie Filmmaking
-• 👓 Web Virtual Reality (WebVR)
+• 💾 Frontend Development 
+• 🎨 Brand Design, UI/UX Design 
+• 🎬 2D Animation, Indie Filmmaking 
+• 👓 Web Virtual Reality (WebVR) 
 
 ⚡️ **More about me**
 • 🚀 I am currently learning NextJS and Laravel to expand my frontend skills in-order to build & ship more meaningful products 
-• 💬 Ask me anything about UI/UX Design, CSS/SCSS, WordPress Development
-• 📫 How to reach me: - Twitter: [@HikwaMehluli](https://twitter.com/HikwaMehluli), - LinkedIn: [Mehluli Hikwa](https://www.linkedin.com/in/hikwamehluli), - Email: [Send a mail!](mailto:mehlulihikwa@gmail.com)
-• 🐝 Fun fact: I'm a hobbyist beekeeper
+• 💬 Ask me anything about UI/UX Design, CSS/SCSS, WordPress Development 
+• 📫 How to reach me: - Twitter: [@HikwaMehluli](https://twitter.com/HikwaMehluli), - LinkedIn: [Mehluli Hikwa](https://www.linkedin.com/in/hikwamehluli), - Email: [Send a mail!](mailto:mehlulihikwa@gmail.com) 
+• 🐝 Fun fact: I'm a hobbyist beekeeper 
