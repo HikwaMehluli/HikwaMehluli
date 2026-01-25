@@ -7,10 +7,10 @@ My name is Mehluli Hikwa - I'm a multifaceted designer with a passion for using 
 - 💾 Frontend Development 
 - 🎨 Brand Design, UI/UX Design 
 - 🎬 2D Animation, Indie Filmmaking 
-- 👓 Web Virtual Reality (WebVR) 
+- 🥽 Web Virtual Reality (WebVR) 
 
 ⚡️ **More about me**
 - 🚀 I am currently learning NextJS to expand my frontend skills in-order to build & ship more meaningful products 
 - 💬 Ask me anything about UI/UX Design, CSS/SCSS, WordPress Development 
-- 📫 How to reach me: - X: [@HikwaMehluli](https://x.com/HikwaMehluli), - LinkedIn: [Mehluli Hikwa](https://www.linkedin.com/in/hikwamehluli), - Email: [Send a mail!](mailto:mehlulihikwa@gmail.com) 
+- 📫 How to reach me: - LinkedIn: [Mehluli Hikwa](https://www.linkedin.com/in/hikwamehluli), - X: [@HikwaMehluli](https://x.com/HikwaMehluli) - Email: [Send a mail!](mailto:mehlulihikwa@gmail.com) 
 - 🐝 Fun fact: I'm a hobbyist beekeeper 
